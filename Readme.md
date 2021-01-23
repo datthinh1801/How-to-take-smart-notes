@@ -65,14 +65,14 @@ Trước khi thực sự cho các `lecture notes` và `idea notes` vào Permanen
 Nếu các bạn dùng Notion, giả sử các bạn muốn liên kết ghi chú A với ghi chú B, thì tại ghi chú A, các bạn gõ `@ B` và nhấn `Enter` thì Notion sẽ tự động tạo 1 liên kết 2 chiều cho bạn. Để hiểu rõ hơn về cách sử dụng thì các bạn bấm vào [đây](https://www.notion.so/guides) nhé.
 
 #### 4. Xem lại các ghi chú
-Việc này khá đơn giản, các bạn chỉ cần lướt qua các ghi chú trong Permanent box thì sẽ tìm được ghi chú mà mình cần. Còn nếu bạn sử dụng Notion thì có thể sử dụng công cụ tìm kiếm để tiết kiệm thời gian (nhưng mình vẫn khuyên các bạn nên tìm thủ công vì việc này sẽ vô tình giúp chúng ta xem lại những ghi chú khác).
+Việc này khá đơn giản, các bạn chỉ cần lướt qua các ghi chú trong Permanent box thì sẽ tìm được ghi chú mà mình cần. Còn nếu bạn sử dụng Notion thì có thể sử dụng công cụ tìm kiếm có sẵn của Notion để tiết kiệm thời gian (nhưng mình vẫn khuyên các bạn nên tìm thủ công vì việc này sẽ vô tình giúp chúng ta xem lại những ghi chú khác).
 
 #### 5. Phát triển kiến thức
 Trong quá trình học, có thể các bạn sẽ có các cách hiểu khác nhau về cùng một vấn đề và có thể các bạn sẽ muốn xoá hoặc thay đổi trực tiếp một ghi chú nào đó. Nhưng thay vì làm như vậy, các bạn nên tạo một ghi chú mới và liên kết ghi chú mới này với ghi chú cũ để sau này các bạn có thể xem lại quá trình phát triển ý tưởng, luận điểm của mình hoặc thấy được sự khác biệt trong các cách suy nghĩ của bản thân.
 
 ## Điểm mạnh
 Các điểm mạnh của phương pháp ghi chú này chính là:
-- Không gây cản trở quá trình học (nhờ vào fleeting notes).
+- Không gây cản trở quá trình học (nhờ vào `fleeting notes`).
 - Cấu trúc note đơn giản (không chia thành các topics hay sub-topics).
 - Dễ dàng phát triển kiến thức (nhờ vào việc diễn đạt lại các ý và liên kết thông tin).
 - Loại bỏ các trở ngại trong việc ghi nhớ (nhờ vào việc liên kết thông tin và bản thân Permanent box là một *thẻ nhớ ngoài* của chúng ta, vì tất cả những kiến thức và suy nghĩ đều được ghi lại và phát triển đầy đủ).
