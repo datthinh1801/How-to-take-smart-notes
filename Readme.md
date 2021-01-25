@@ -1,7 +1,7 @@
 # How to take smart notes?
 
 Lấy cảm hứng từ quyển sách [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/ref=sr_1_1?crid=LZQ0IFKKEBFZ&dchild=1&keywords=how+to+take+smart+notes&qid=1611304777&sprefix=how+to+take+s%2Caps%2C412&sr=8-1) của tác giả **Sönke Ahrens**,
-mình sẽ chia sẻ những thông tin hữu mà mình có được và mong là sẽ nó giúp cho các bạn trong quá trình học tập, nghiên cứu, và phát triển của bản thân.
+mình sẽ chia sẻ những thông tin hữu mà mình có được và mong là nó sẽ giúp cho các bạn trong quá trình học tập, nghiên cứu, và phát triển của bản thân.
 > Happy note-taking!! :smile:
 
 #### Một số lưu ý
@@ -12,7 +12,7 @@ ___
 ## Cách take note của mình trước khi mình biết được phương pháp này
 Trong quá trình học, mình thường xuyên highlight, gạch chân, ghi lại một số thông tin nào đó ở phần rìa của trang sách, chép bài (chép theo đúng nghĩa đen là ***copy*** những gì thầy cô giảng và ***paste*** vào trong tập).
 
-Khoảng 1 năm trở lại đây, mình biết tới [**Notion**  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion-logo" width="30"/>](https://www.notion.so/) và bắt đầu *số hoá* việc ghi chú. Mình sử dụng Notion như sau:
+Khoảng 1 năm trở lại đây, mình biết tới [**Notion**  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion-logo" width="15"/>](https://www.notion.so/) và bắt đầu *số hoá* việc ghi chú. Mình sử dụng Notion như sau:
 
 Mình chia những ghi chú của mình theo danh mục và chủ đề, trong mỗi chủ đề sẽ có chủ đề con (đôi khi trong chủ đề con có thêm chủ đề *cháu* :laughing:), và trong các chủ đề là những trang notes của mình. Trong nhiều trường hợp, những trang notes này chẳng qua chỉ là 1 bản copy của 1 slide hay nội dung của 1 trang sách (kỹ thuật ***copy paste*** tiếp tục được áp dụng tại đây).
 
