@@ -56,6 +56,8 @@ Các loại notes:
 Trong quá trình học, chúng ta sẽ không muốn bất cứ điều gì làm ngắt mạch học của mình. Chính vì vậy, bất kỳ thông tin, kiến thức quan trọng, hay thậm chí là những ý tưởng và suy nghĩ bất chợt xuất hiện trong đầu đều mà chúng ta muốn xem xét sẽ được ghi lại vào `fleeting notes`.
 > Lưu ý: chỉ ghi lại các **keywords** vừa đủ để gợi nhớ những nội dung đó.
 
+Một tip nho nhỏ là trên fleeting notes các bạn nên ghi lại vị trí của thông tin. Ví dụ thông tin mà bạn note lại là ở trang 26 - đoạn 4 của một quyển sách A thì các thông tin này nên được đề cập trong `fleeting notes` để dễ tìm lại thông tin.
+
 #### 2. Chuyển các ghi chú từ Draft box sang Permanent box
 Các ghi chú trong Draft box nên được xem lại trong vòng tối đa là 48 giờ và chuyển sang Permanent box. Vì sau 48 giờ, chúng ta sẽ khó có thể nhớ được nội dung và ý nghĩa của các **keywords** này.
 
